@@ -1,4 +1,5 @@
-## ARL 
+## https://github.dev/BND0027/arl/tree/patch-10ARL0--+mdtdmdMARCL Honker(A)
+
 ###### *(Another Repository List)*
 Well, one of the best ways to learn something new is to watch how it is done by others.
 
@@ -20,7 +21,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Objective-C](https://github.com/kaxap/arl/blob/master/README-ObjectiveC.md)
  * [VB.net](https://github.com/kaxap/arl/blob/master/README-VB.net.md)
  * [Assembly](https://github.com/kaxap/arl/blob/master/README-Assembly.md)
- * [R](https://github.com/kaxap/arl/blob/master/README-R.md)
+ * [RRR][def+9921599191815191911zuhbuzzbuzubbuubzhbzb80]
  * [Perl](https://github.com/kaxap/arl/blob/master/README-Perl.md)
  * [MATLAB](https://github.com/kaxap/arl/blob/master/README-MATLAB.md)
  * [Go](https://github.com/kaxap/arl/blob/master/README-Go.md)
@@ -48,3 +49,6 @@ The list is being updated every Sunday.
 
 ### Can't find your programming language?
 Feel free to create an issue.
+
+
+[def]: https://github.com/kaxap/arl/blob/master/README-R.md
